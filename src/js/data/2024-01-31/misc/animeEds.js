@@ -65,7 +65,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "ED"
       ]
     }
   },
@@ -115,7 +115,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "ED"
       ]
     }
   },
@@ -165,7 +165,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "ED"
       ]
     }
   },
@@ -175,7 +175,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "ED"
       ]
     }
   },
@@ -245,7 +245,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "INS"
+        "ED"
       ]
     }
   },
