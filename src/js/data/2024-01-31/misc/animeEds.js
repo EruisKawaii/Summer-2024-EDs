@@ -5,7 +5,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 1"
+        "OP"
       ]
     }
   },
@@ -15,7 +15,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Opening 2"
+        "OP"
       ]
     }
   },
@@ -25,7 +25,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Ending 1"
+        "OP"
       ]
     }
   },
@@ -35,7 +35,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -45,7 +45,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -55,7 +55,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -65,7 +65,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -75,7 +75,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -85,7 +85,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -95,7 +95,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -105,7 +105,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Ending 2"
+        "OP"
       ]
     }
   },
@@ -115,7 +115,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -125,7 +125,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   },
@@ -135,7 +135,7 @@ export const animeEndings = [
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "Insert Song"
+        "OP"
       ]
     }
   }
