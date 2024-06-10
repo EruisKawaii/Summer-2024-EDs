@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
-    name: "Transformers: Armada - TRANSFORMER-Dream Again by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/t31upx.mp3",
+    name: "Magical Sisters Yoyo & Nene - Yoyo no Uta by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/ktj8ly.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -10,8 +10,98 @@ export const animeEndings = [
     }
   },
   {
-    name: "Transformers: Armada - NEVER ENDING ROAD by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/wempbf.mp3",
+    name: "Dragon Collection - Yuna Yuna Daydream by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/qkfl9w.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Meiji Tokyo Renka - Electric Show by Electric Show Dancers",
+    videoId: "https://ladist1.catbox.video/r3nvk0.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Meiji Tokyo Renka - Hoshikuzu no Yomibito by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/p9801o.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Aikatsu Friends! - Issho ni A\u30fbI\u30fbK\u30fbA\u30fbT\u30fbS\u30fbU! by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/imocs5.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ultraman - Hoshi no Kakera by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/jkw5o8.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ascendance of a Bookworm - Masshiro by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/onsne0.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Brand New Animal - Ready to by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/2b1cok.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Ascendance of a Bookworm Season 2 - Tsumujikaze by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/w07y3l.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Fuusen Inu Tinny: Nandaka Fushigi na Kyouryuu no Kuni - Tinny no Uta by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/825pr6.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "OP"
+      ]
+    }
+  },
+  {
+    name: "Battle Athletes Victory ReSTART! - Tsubasa by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/k703fb.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -20,8 +110,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Transformers: Armada - Don't Give Up!! by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/7c6n0p.mp3",
+    name: "Sugar Apple Fairy Tale - Kanaeru by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/oeuf9q.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -30,28 +120,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Dokkoida?! - Itsumo Te no Naka ni by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/lkrh6a.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Witchblade - XTC by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/c7uqve.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Witchblade - Kodou -get closer- by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/8dz2x8.mp3",
+    name: "Sugar Apple Fairy Tale - I Will Go On by Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/j7tcqp.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -60,8 +130,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Beet the Vandel Buster - Bouken Ou Beet by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/1dlmd2.mp3",
+    name: "Chiikawa - Pajama Parties no Uta by Pajama Parties",
+    videoId: "https://ladist1.catbox.video/v8qxcm.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -70,8 +140,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Ring ni Kakero 1 - TAKE MY SOUL FOREVER by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/89injo.mp3",
+    name: "Insomniacs After School - Nantonaku Nantonaku by Seiichirou Yamashita, Konomi Tamura, Lynn, Natsumi Fujiwara, Sumire Morohoshi",
+    videoId: "https://ladist1.catbox.video/albs0j.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -80,262 +150,12 @@ export const animeEndings = [
     }
   },
   {
-    name: "Yu-Gi-Oh! GX - Precious Time, Glory Days by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/wslwli.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Gaiking: Legend of Daiku-Maryu - GAIKING by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/hjn4p6.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Gaiking: Legend of Daiku-Maryu - Oh! my god by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/c5qcyn.mp3",
+    name: "Koikeya SDGs Gekijou: Sus to Taina - Mada Maniau! by Masaki Aiba, Honoka Kuroki, Sumire Morohoshi",
+    videoId: "https://files.catbox.moe/qzip61.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
-      ]
-    }
-  },
-  {
-    name: "Gaiking: Legend of Daiku-Maryu - Gai! Gai! Gaiking! by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/634rff.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Bakugan Battle Brawlers - Number One Battle Brawlers by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/x7dx85.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Bakugan Battle Brawlers - Bucchigiri\u221eGeneration by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/pwqt4o.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Tytania - LOST IN SPACE by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/8xe5pa.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Bakugan Battle Brawlers: New Vestroia - Chou! Saikyou! Warriors by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/nv43vj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi - Tagiru Chikara! by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/c7mkdj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Digimon Xros Wars: Toki o Kakeru Shounen Hunter-tachi - Legend Xros Wars by YOFFY & Takafumi Iwasaki",
-    videoId: "https://ladist1.catbox.video/6v04dm.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Cardfight!! Vanguard: Link Joker-hen - Vanguard Fight by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/x0k0rr.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Cardfight!! Vanguard: Link Joker-hen - Break your spell by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/zgyzh5.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Future Card Buddyfight - Card of the Future by Psychic Lover\u00d7Suara",
-    videoId: "https://ladist1.catbox.video/r00ur5.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Cardfight!! Vanguard: Legion Mate-hen - V-ROAD by BUSHI\u26057",
-    videoId: "https://ladist1.catbox.video/jgszjl.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Gekijouban Cardfight!! Vanguard: Neon Messiah - V-ROAD (symphony ver.) by BUSHI\u26057",
-    videoId: "https://ladist1.catbox.video/tsqc2l.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Chou Bakuretsu Ijigen Menko Battle Gigant Shooter Tsukasa - Gigant Shooter Dacchuu no! by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/zcuyx6.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Rewrite 2nd Season - Rewrite by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/zn9l8t.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Cardfight!! Vanguard G Next - \u2192Next Generation by Psychic Lover",
-    videoId: "https://ladist1.catbox.video/pirgx6.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "The Disastrous Life of Saiki K. - \u03a8-lent Prisoner by Saiki-kku Lover feat. Hiroshi Kamiya, Daisuke Ono, Nobunaga Shimazaki",
-    videoId: "https://ladist1.catbox.video/q7ouuj.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "The Disastrous Life of Saiki K. - Duet\u2661Shitekuda-\u03a8 by Saiki-kku Lover feat. Hiroshi Kamiya, Ai Kayano, Eri Kitamura",
-    videoId: "https://ladist1.catbox.video/qg6bza.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Super Dragon Ball Heroes - Universe Mission Series Theme Song by Dragon Soul",
-    videoId: "https://ladist1.catbox.video/5iednn.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Super Dragon Ball Heroes - Big Bang Mission Series Theme Song by Dragon Soul",
-    videoId: "https://ladist1.catbox.video/2k5wgr.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Super Dragon Ball Heroes - Super Dragon Ball Heroes Fight Song by Dragon Soul",
-    videoId: "https://ladist1.catbox.video/3gmulc.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Super Dragon Ball Heroes - Ultra God Mission Series Theme Song by Dragon Soul",
-    videoId: "https://ladist1.catbox.video/e0s1i7.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Super Dragon Ball Heroes - Meteor Mission Series Theme Song by Dragon Soul",
-    videoId: "https://ladist1.catbox.video/yoc2w4.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
-      ]
-    }
-  },
-  {
-    name: "Transformers: EarthSpark - TRANSFORMERS-Earthspark!! by Psychic Lover",
-    videoId: "https://files.catbox.moe/excg59.mp4",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "OP"
       ]
     }
   }
