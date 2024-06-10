@@ -1,161 +1,141 @@
 export const animeEndings = [
   {
-    name: "Magical Sisters Yoyo & Nene - Yoyo no Uta by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/ktj8ly.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Dreamy Life by Gentlemen",
+    videoId: "https://ladist1.catbox.video/1fql1w.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 1"
       ]
     }
   },
   {
-    name: "Dragon Collection - Yuna Yuna Daydream by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/qkfl9w.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - My Way by Eikyuu Shounen",
+    videoId: "https://ladist1.catbox.video/ymhvl0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Opening 2"
       ]
     }
   },
   {
-    name: "Meiji Tokyo Renka - Electric Show by Electric Show Dancers",
-    videoId: "https://ladist1.catbox.video/r3nvk0.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - FRIENDS by Story of Love",
+    videoId: "https://ladist1.catbox.video/d16nfu.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Ending 1"
       ]
     }
   },
   {
-    name: "Meiji Tokyo Renka - Hoshikuzu no Yomibito by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/p9801o.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Story of Love by Story of Love",
+    videoId: "https://ladist1.catbox.video/tq21yz.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Ending 2"
       ]
     }
   },
   {
-    name: "Aikatsu Friends! - Issho ni A\u30fbI\u30fbK\u30fbA\u30fbT\u30fbS\u30fbU! by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/imocs5.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Tsuyoshi no Maroyaka Otoko Michi by Daisuke Namikawa",
+    videoId: "https://ladist1.catbox.video/15tq3x.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Ultraman - Hoshi no Kakera by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/jkw5o8.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Shall We Dance? by Gentlemen",
+    videoId: "https://ladist1.catbox.video/k26rcu.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Ascendance of a Bookworm - Masshiro by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/onsne0.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Eternal by Eikyuu Shounen",
+    videoId: "https://ladist1.catbox.video/o5ud40.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Brand New Animal - Ready to by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/2b1cok.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - GENTLEMEN by Gentlemen",
+    videoId: "https://ladist1.catbox.video/9lxd40.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Ascendance of a Bookworm Season 2 - Tsumujikaze by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/w07y3l.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Eien ni... by Eikyuu Shounen",
+    videoId: "https://ladist1.catbox.video/kn8gyy.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Fuusen Inu Tinny: Nandaka Fushigi na Kyouryuu no Kuni - Tinny no Uta by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/825pr6.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Again by Eikyuu Shounen",
+    videoId: "https://ladist1.catbox.video/4kmohn.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "OP"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Battle Athletes Victory ReSTART! - Tsubasa by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/k703fb.mp3",
+    name: "Eikyuu Shounen: Eternal Boys Next Stage - PERFECT WORLD by Story of Love",
+    videoId: "https://ladist1.catbox.video/tf4fra.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Ending 2"
       ]
     }
   },
   {
-    name: "Sugar Apple Fairy Tale - Kanaeru by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/oeuf9q.mp3",
+    name: "Eikyuu Shounen: Eternal Boys Next Stage - Red Line by Eikyuu Shounen",
+    videoId: "https://ladist1.catbox.video/a68drt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Sugar Apple Fairy Tale - I Will Go On by Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/j7tcqp.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - do ones best by ???",
+    videoId: "https://files.catbox.moe/9xh5vb.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
+        "Insert Song"
       ]
     }
   },
   {
-    name: "Chiikawa - Pajama Parties no Uta by Pajama Parties",
-    videoId: "https://ladist1.catbox.video/v8qxcm.mp3",
+    name: "Eikyuu Shounen: Eternal Boys - Step Forward by ???",
+    videoId: "https://files.catbox.moe/z65hr0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Insomniacs After School - Nantonaku Nantonaku by Seiichirou Yamashita, Konomi Tamura, Lynn, Natsumi Fujiwara, Sumire Morohoshi",
-    videoId: "https://ladist1.catbox.video/albs0j.mp3",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Koikeya SDGs Gekijou: Sus to Taina - Mada Maniau! by Masaki Aiba, Honoka Kuroki, Sumire Morohoshi",
-    videoId: "https://files.catbox.moe/qzip61.mp4",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts: {
-      singer: [
-        "ED"
+        "Insert Song"
       ]
     }
   }
