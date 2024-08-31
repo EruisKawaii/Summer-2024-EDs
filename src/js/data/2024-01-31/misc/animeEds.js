@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
-    name: "[Oshi No Ko] Season 2 - Fatal by GEMN",
-    videoId: "https://ladist1.catbox.video/r9qhim.mp3",
+    name: "[Oshi No Ko] Season 2 - Burning by Hitsujibungaku",
+    videoId: "https://ladist1.catbox.video/tumtet.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -10,8 +10,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "2.5 Dimensional Seduction - Shutter Chance by Meychan",
-    videoId: "https://ladist1.catbox.video/vjt0wa.mp3",
+    name: "2.5 Dimensional Seduction - Watch Me by Kaori Maeda\u30fbAkari Kitou",
+    videoId: "https://ladist1.catbox.video/ahxmcb.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -20,8 +20,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Atri: My Dear Moments - Ano Hikari by Nogizaka46",
-    videoId: "https://ladist1.catbox.video/ja62ne.mp3",
+    name: "Atri: My Dear Moments - YES to NO no Aida ni by 22/7",
+    videoId: "https://ladist1.catbox.video/3q9ghq.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -30,8 +30,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "My Hero Academia Season 7 - Curtain Call by Yuuri",
-    videoId: "https://ladist1.catbox.video/rjacsu.mp3",
+    name: "My Hero Academia Season 7 - Rokutousei by ZARAME",
+    videoId: "https://ladist1.catbox.video/tumtet.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -40,8 +40,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "My Wife Has No Emotion - Okaerinasai by Tokino Sora",
-    videoId: "https://ladist1.catbox.video/7n7k3j.mp3",
+    name: "My Wife Has No Emotion - Wave by Miisha Shimizu",
+    videoId: "https://ladist1.catbox.video/lglwct.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -50,8 +50,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Bye Bye, Earth - FACELESS by ASCA",
-    videoId: "https://ladist1.catbox.video/wpvn43.mp3",
+    name: "Bye Bye, Earth - I LUV U 2 by LMYK",
+    videoId: "https://ladist1.catbox.video/f365j3.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -60,8 +60,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Cardfight!! Vanguard Divinez Season 2 - Shukumei by Sutopuri",
-    videoId: "https://ladist1.catbox.video/60ltao.mp3",
+    name: "Cardfight!! Vanguard Divinez Season 2 - Panorama by MyGO!!!!!",
+    videoId: "https://ladist1.catbox.video/ygu92n.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -70,8 +70,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Delico's Nursery - UNFAIR by Mika Nakashima",
-    videoId: "https://ladist1.catbox.video/ka95ub.mp3",
+    name: "Delico's Nursery - Prayer by Anonymouz",
+    videoId: "https://files.catbox.moe/7w4i2x.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -80,8 +80,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Dungeon People - Micro Revolution by TrySail",
-    videoId: "https://ladist1.catbox.video/8ijy2h.mp3",
+    name: "Dungeon People - Blueprint by Akari Nanawo",
+    videoId: "https://ladist1.catbox.video/9ykiu7.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -90,8 +90,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Plus-Sized Elf - Fried\u2606Pride by REAL AKIBA BOYZ loves Kasumi Taguchi & AiRyA from REAL AKIBA BAND",
-    videoId: "https://ladist1.catbox.video/fbuc6g.mp3",
+    name: "Plus-Sized Elf - Minna DE Diet by Demo Tabe-tai",
+    videoId: "https://files.catbox.moe/4xlie8.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -100,8 +100,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Fairy Tail: 100 Years Quest - Story by Da-iCE",
-    videoId: "https://ladist1.catbox.video/5wmrq5.mp3",
+    name: "Fairy Tail: 100 Years Quest - Tomo yo Koko de Sayonara da by Boku ga Mitakatta Aozora",
+    videoId: "https://ladist1.catbox.video/mbfsru.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -110,8 +110,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Pseudo Harem - Blouse by GOHOBI",
-    videoId: "https://ladist1.catbox.video/wkqbx2.mp3",
+    name: "Pseudo Harem - Ad-lib by Saori Hayami",
+    videoId: "https://ladist1.catbox.video/zd4qai.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -120,8 +120,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Days with My Stepsister - Tenshi-tachi no Uta by fh\u00e1na",
-    videoId: "https://ladist1.catbox.video/v7hd4s.mp3",
+    name: "Days with My Stepsister - Suisou no Buranko by Kitri",
+    videoId: "https://ladist1.catbox.video/49pral.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -130,8 +130,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Grendizer U - Kaishin no Ichigeki by GLAY",
-    videoId: "https://ladist1.catbox.video/c4u57c.mp3",
+    name: "Grendizer U - Protect You by BAND-MAID",
+    videoId: "https://ladist1.catbox.video/obzocz.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -140,8 +140,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells - Hazure by Chogakusei",
-    videoId: "https://ladist1.catbox.video/6sf801.mp3",
+    name: "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells - pray by Hakubi",
+    videoId: "https://ladist1.catbox.video/vpei9x.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -150,8 +150,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "No Longer Allowed in Another World - Shura Nikki by Kashitaro Ito",
-    videoId: "https://ladist1.catbox.video/phztgx.mp3",
+    name: "No Longer Allowed in Another World - Sayonara, Subarashiki Sekai yo by Mayu Maeshima",
+    videoId: "https://ladist1.catbox.video/8b0b20.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -160,8 +160,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Suicide Squad Isekai - Another World by Tomoyasu Hotei",
-    videoId: "https://ladist1.catbox.video/03ac98.mp3",
+    name: "Suicide Squad Isekai - Go-Getters by Mori Calliope",
+    videoId: "https://ladist1.catbox.video/q1otmv.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -170,8 +170,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "A Journey Through Another World: Raising Kids While Adventuring - Yururing Travel days by Tebasaki Sensation",
-    videoId: "https://ladist1.catbox.video/lptvkl.mp3",
+    name: "A Journey Through Another World: Raising Kids While Adventuring - MAKUAKE by GOHOBI",
+    videoId: "https://ladist1.catbox.video/j9d3pr.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -180,8 +180,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Tower of God: Return of the Prince - RISE UP by NiziU",
-    videoId: "https://ladist1.catbox.video/rcu5fv.mp3",
+    name: "Tower of God: Return of the Prince - BELIEVE by NiziU",
+    videoId: "https://ladist1.catbox.video/hnrvvd.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -190,8 +190,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Magical Girl and The Evil Lieutenant Used to Be Archenemies - Mikansei Rendezvous by Lezel",
-    videoId: "https://ladist1.catbox.video/6ce6em.mp3",
+    name: "The Magical Girl and The Evil Lieutenant Used to Be Archenemies - Itsumo Futari ga Ii ne by Yuki Ono & Mai Nakahara",
+    videoId: "https://ladist1.catbox.video/yq30x0.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -200,8 +200,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Kengan Ashura Season 2 Part 2 - Feel My Pain by HEY-SMITH",
-    videoId: "https://files.catbox.moe/bmsh4p.mp3",
+    name: "Kengan Ashura Season 2 Part 2 - NANI? by Jin Dogg",
+    videoId: "https://files.catbox.moe/ulh1kg.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -210,8 +210,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Kimi ni Todoke: From Me to You Season 3 - Et cetera by imase",
-    videoId: "https://ladist1.catbox.video/mtp8il.mp3",
+    name: "Kimi ni Todoke: From Me to You Season 3 - First Song Kimi ni Todoke! by Goro Ito",
+    videoId: "https://ladist1.catbox.video/ifyajt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -220,8 +220,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Our Last Crusade or the Rise of a New World Season 2 - Senaka Awase by AliA",
-    videoId: "https://ladist1.catbox.video/lio0sj.mp3",
+    name: "Our Last Crusade or the Rise of a New World Season 2 - Para Bellum by Sizuk feat. AYAME(from AliA)",
+    videoId: "https://ladist1.catbox.video/su6ztg.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -230,8 +230,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Kinnikuman: Perfect Origin Arc - LOVE & JUSTICE by Yasuharu Takanashi\u00d7FLOW",
-    videoId: "https://ladist1.catbox.video/xb98ar.mp3",
+    name: "Kinnikuman: Perfect Origin Arc - Kinnikuman Go Fight! by Mamoru Miyano",
+    videoId: "https://ladist1.catbox.video/fcs1t5.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -240,8 +240,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Love Is Indivisible by Twins - Parallel na Heart by Maaya Uchida",
-    videoId: "https://ladist1.catbox.video/uxx2gt.mp3",
+    name: "Love Is Indivisible by Twins - Honey Citron -Strings Arrange- by Moeha Nochimoto & Maaya Uchida",
+    videoId: "https://ladist1.catbox.video/i1h2rb.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -250,8 +250,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Chi's Sweet Adventure: Summer Vacation - Kokoro Makase by kobasolo feat. Kopi",
-    videoId: "https://ladist1.catbox.video/tmdgqe.mp3",
+    name: "Chi's Sweet Adventure: Summer Vacation - Myr by Riko Tanaka",
+    videoId: "https://ladist1.catbox.video/6vr7lg.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -260,8 +260,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Quality Assurance in Another World - No Complete by Liyuu",
-    videoId: "https://ladist1.catbox.video/xd6iv4.mp3",
+    name: "Quality Assurance in Another World - LOOP by NACHERRY",
+    videoId: "https://ladist1.catbox.video/akjblq.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -270,8 +270,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Maarui Kanojo to Zannen na Kareshi - Unmei-sen de Dakishimete by KyoungSeo",
-    videoId: "https://ladist1.catbox.video/k2eeim.mp3",
+    name: "Maarui Kanojo to Zannen na Kareshi - Oishii Serenade by Ayaka Ohashi",
+    videoId: "https://ladist1.catbox.video/3qg53h.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -280,8 +280,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools - Chiisana Tsubomi by Nako Misaki",
-    videoId: "https://ladist1.catbox.video/lmkok4.mp3",
+    name: "Dahlia in Bloom: Crafting a Fresh Start with Magical Tools - Glitter by Marina Horiuchi",
+    videoId: "https://ladist1.catbox.video/6nltrr.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -290,8 +290,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Makeine: Too Many Losing Heroines! - Tsuyogaru Girl by BotchiBoromaru feat. Mossa (from Necry Talkie)",
-    videoId: "https://ladist1.catbox.video/5sgdon.mp3",
+    name: "Makeine: Too Many Losing Heroines! - LOVE2000 by Hikaru Toono",
+    videoId: "https://ladist1.catbox.video/vpbug8.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -300,8 +300,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Strongest Magician in the Demon Lord's Army was a Human - Ctrl C by KOHTA YAMAMOTO feat. Shun Ikegai",
-    videoId: "https://ladist1.catbox.video/odh1ph.mp3",
+    name: "The Strongest Magician in the Demon Lord's Army was a Human - I still by KOHTA YAMAMOTO feat. Maya Akechi",
+    videoId: "https://ladist1.catbox.video/o3v9sj.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -310,8 +310,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Mayonaka Punch - Gimme Gimme by Fairouz Ai, Yuina Ito, Hina Youmiya, Hitomi Ueda, Ai Kayano",
-    videoId: "https://ladist1.catbox.video/j41rwr.mp3",
+    name: "Mayonaka Punch - Henshuu-ten by Ikumi Hasegawa",
+    videoId: "https://ladist1.catbox.video/8hf9vw.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -320,8 +320,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Caf\u00e9 Terrace and Its Goddesses Season 2 - Charge! by Hikari Codama",
-    videoId: "https://files.catbox.moe/0rbuy0.mp3",
+    name: "The Caf\u00e9 Terrace and Its Goddesses Season 2 - Nacchatta! by Aglio Olio e Peperoncino",
+    videoId: "https://files.catbox.moe/756sxk.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -330,8 +330,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho - Kanjou Kakumei Rock 'n' Roll by Nanami Urara",
-    videoId: "https://ladist1.catbox.video/5vxcbd.mp3",
+    name: "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho - King's Choice by Crimson Crat Clan",
+    videoId: "https://ladist1.catbox.video/yuzxr5.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -340,8 +340,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "A Nobody's Way Up to an Exploration Hero - Up Start by Amatsuki",
-    videoId: "https://ladist1.catbox.video/2zhch6.mp3",
+    name: "A Nobody's Way Up to an Exploration Hero - Strobe Fantasy by May'n",
+    videoId: "https://ladist1.catbox.video/ztdbd9.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -350,8 +350,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Monogatari Series: Off & Monster Season - caramel ribbon cursetard by Kana Hanazawa\u30fbSaori Hayami",
-    videoId: "https://ladist1.catbox.video/aiwjkm.mp3",
+    name: "Monogatari Series: Off & Monster Season - UNDEAD by YOASOBI",
+    videoId: "https://ladist1.catbox.video/psbozy.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -360,8 +360,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Narenare -Cheer for You!- - Cheer for you! by PoMPoMs",
-    videoId: "https://ladist1.catbox.video/g8u310.mp3",
+    name: "Narenare -Cheer for You!- - with by PoMPoMs",
+    videoId: "https://ladist1.catbox.video/bbs86g.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -370,8 +370,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Why Does Nobody Remember Me in This World? - Sekai Rinne by Unlucky Morpheus",
-    videoId: "https://ladist1.catbox.video/yhpzku.mp3",
+    name: "Why Does Nobody Remember Me in This World? - Togirenaide by SUSU",
+    videoId: "https://ladist1.catbox.video/wvjh8k.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -380,8 +380,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "NieR:Automata Ver1.1a (Cour 2) - Black Box by LiSA",
-    videoId: "https://ladist1.catbox.video/xgns1g.mp3",
+    name: "NieR:Automata Ver1.1a (Cour 2) - Hai to Inori by GEMS COMPANY",
+    videoId: "https://ladist1.catbox.video/utwyc2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -390,8 +390,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Elusive Samurai - Plan A by DISH//",
-    videoId: "https://ladist1.catbox.video/i7iw4m.mp3",
+    name: "The Elusive Samurai - Kamakura STYLE by BotchiBoromaru",
+    videoId: "https://ladist1.catbox.video/b60b78.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -400,8 +400,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Ninja Kamui - Vengeance by coldrain",
-    videoId: "https://ladist1.catbox.video/fphm86.mp3",
+    name: "Ninja Kamui - Eye Openers by Jessica Gelinas",
+    videoId: "https://ladist1.catbox.video/revp5f.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -410,8 +410,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Spice and Wolf: Merchant Meets the Wise Wolf - Sign by Aimer",
-    videoId: "https://ladist1.catbox.video/er3pp5.mp3",
+    name: "Spice and Wolf: Merchant Meets the Wise Wolf - Ringo to Kimi by Neriame",
+    videoId: "https://ladist1.catbox.video/0sykhx.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -420,8 +420,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "I Parry Everything - AMBITION by Anna Suzuki",
-    videoId: "https://ladist1.catbox.video/i2mtsp.mp3",
+    name: "I Parry Everything - No Gifted by Utahime Dream Allstars",
+    videoId: "https://ladist1.catbox.video/1u00gs.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -430,8 +430,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Ramen Akaneko - Akaneko by Wednesday Campanella",
-    videoId: "https://ladist1.catbox.video/pqy63o.mp3",
+    name: "Ramen Akaneko - Honjitsu no Osusume by Rikon Densetsu",
+    videoId: "https://ladist1.catbox.video/72l6h4.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -440,8 +440,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Sengoku Youko 2nd Season - KATAWARA by STEREO DIVE FOUNDATION",
-    videoId: "https://files.catbox.moe/cl1z97.mp3",
+    name: "Sengoku Youko 2nd Season - Yoru no Manima by Hiroki Nanami",
+    videoId: "https://files.catbox.moe/enjnb7.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -450,8 +450,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Senpai is an Otokonoko - Wagamama by Kujira",
-    videoId: "https://ladist1.catbox.video/56nciu.mp3",
+    name: "Senpai is an Otokonoko - Are ga Koi Datta no kana by Kujira feat. nishina",
+    videoId: "https://ladist1.catbox.video/hcstic.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -460,8 +460,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "My Deer Friend Nokotan - Shika-iro Days by Shika-bu",
-    videoId: "https://ladist1.catbox.video/qh3grs.mp3",
+    name: "My Deer Friend Nokotan - Shika Senbei no Uta by Megumi Han & Saki Fujita",
+    videoId: "https://ladist1.catbox.video/9yaxr1.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -470,8 +470,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Kouya ni Sake yo Boukensha-tachi by Akira Kushida",
-    videoId: "https://ladist1.catbox.video/8qh3qz.mp3",
+    name: "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Sagashi Mono by Chiai Fujikawa",
+    videoId: "https://ladist1.catbox.video/xqj13w.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -480,8 +480,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Girl Downstairs - Might Just by SWEET REVENGE",
-    videoId: "https://files.catbox.moe/ymds4h.mp3",
+    name: "The Girl Downstairs - Yoru ga Akeru made by Nornis",
+    videoId: "https://files.catbox.moe/7agx41.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -490,8 +490,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "SHOSHIMIN: How to Become Ordinary - Sweet Memory by Eve",
-    videoId: "https://ladist1.catbox.video/robaqy.mp3",
+    name: "SHOSHIMIN: How to Become Ordinary - I Tokenai by ammo",
+    videoId: "https://ladist1.catbox.video/pr8co1.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -500,8 +500,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Shy Season 2 - WILLSHINE by PassCode",
-    videoId: "https://ladist1.catbox.video/whih17.mp3",
+    name: "Shy Season 2 - Soba ni Iru yo by Shino Shimoji & Nao Touyama",
+    videoId: "https://ladist1.catbox.video/uwcsrt.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -510,8 +510,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Twilight Out of Focus - Crank Up by Ikusaburo Yamazaki",
-    videoId: "https://ladist1.catbox.video/60aidf.mp3",
+    name: "Twilight Out of Focus - Unchain\u00d7Unchain by Amber's",
+    videoId: "https://ladist1.catbox.video/nby2h8.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -520,8 +520,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Tasuketsu -Fate of the Majority- - Emperor Time by Vivarush",
-    videoId: "https://ladist1.catbox.video/7dnw4x.mp3",
+    name: "Tasuketsu -Fate of the Majority- - GAME OVER by issey",
+    videoId: "https://ladist1.catbox.video/9yqxsu.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -530,8 +530,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "That Time I Got Reincarnated as a Slime Season 3 - Renacer Serenade by Momoiro Clover Z",
-    videoId: "https://ladist1.catbox.video/v8tdz0.mp3",
+    name: "That Time I Got Reincarnated as a Slime Season 3 - Miracle soup by MindaRyn",
+    videoId: "https://ladist1.catbox.video/nz6dvm.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -540,8 +540,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Sakuna: Of Rice and Ruin - Harebare! by Ikimono-gakari",
-    videoId: "https://ladist1.catbox.video/rct359.mp3",
+    name: "Sakuna: Of Rice and Ruin - ORIGAMI by Little Glee Monster",
+    videoId: "https://ladist1.catbox.video/0unb5o.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -550,8 +550,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "The Fable - Switch by Umeda Cypher",
-    videoId: "https://ladist1.catbox.video/cac8eb.mp3",
+    name: "The Fable - BEYOND by ALI feat. MaRI",
+    videoId: "https://ladist1.catbox.video/1sr7ca.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -560,8 +560,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Alya Sometimes Hides Her Feelings in Russian - 1-ban Kagayaku Hoshi by Sumire Uesaka",
-    videoId: "https://ladist1.catbox.video/m99hx8.mp3",
+    name: "Alya Sometimes Hides Her Feelings in Russian - Gakuen Tengoku by Sumire Uesaka",
+    videoId: "https://ladist1.catbox.video/cqoaas.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -570,8 +570,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Wistoria: Wand and Sword - Fire and Fear by PENGUIN RESEARCH",
-    videoId: "https://ladist1.catbox.video/f756eu.mp3",
+    name: "Wistoria: Wand and Sword - Frozen by TRUE",
+    videoId: "https://ladist1.catbox.video/k8eube.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -580,8 +580,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream - Virtual Showtime! by Ayane Sakura",
-    videoId: "https://ladist1.catbox.video/a5k5kk.mp3",
+    name: "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream - Champagne ni Narikirenai Watashi o by Ayane Sakura",
+    videoId: "https://ladist1.catbox.video/u9p7nk.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -590,8 +590,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Mission: Yozakura Family - Secret Operation by fripSide feat. Yoshino Nanjo",
-    videoId: "https://ladist1.catbox.video/gc3hx3.mp3",
+    name: "Mission: Yozakura Family - Kekkon Koushinkyoku by ASOBI Doumei",
+    videoId: "https://ladist1.catbox.video/mura8d.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -600,8 +600,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Bocchi the Rock! Re:Re: - Doppelganger by Kessoku Band",
-    videoId: "https://files.catbox.moe/x0uzdh.mp4",
+    name: "Bocchi the Rock! Re:Re: - Re:Re: by Kessoku Band",
+    videoId: "https://files.catbox.moe/ebtw96.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -610,8 +610,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "My Hero Academia: You're Next - Homunculus by Vaundy",
-    videoId: "https://files.catbox.moe/t7rigw.mp4",
+    name: "My Hero Academia: You're Next - Gift by Vaundy",
+    videoId: "https://files.catbox.moe/0719nl.mp4",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -620,8 +620,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!! - Uten Kekkou by Sutopuri",
-    videoId: "https://files.catbox.moe/iph0je.mp3",
+    name: "SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!! - Chikai no Hanataba wo ~With You~ by Sutopuri",
+    videoId: "https://files.catbox.moe/su5lpj.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
@@ -630,8 +630,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Star Blazers: Space Battleship Yamato 3199 - Uchuu Senkan Yamato by Isao Sasaki",
-    videoId: "https://ladist1.catbox.video/m3ngtf.mp3",
+    name: "Star Blazers: Space Battleship Yamato 3199 - Ginga Densetsu by Hiromi Iwasaki",
+    videoId: "https://ladist1.catbox.video/rslxd2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
