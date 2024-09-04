@@ -230,8 +230,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Kinnikuman: Perfect Origin Arc - Kinnikuman Go Fight! by Mamoru Miyano",
-    videoId: "https://ladist1.catbox.video/fcs1t5.mp3",
+    name: "Kinnikuman: Perfect Origin Arc - Kinnikuman Choujin by Mamoru Miyano",
+    videoId: "https://ladist1.catbox.video/4vz6oo.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
