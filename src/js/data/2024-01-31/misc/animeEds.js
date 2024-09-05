@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
     name: "[Oshi No Ko] Season 2 - Burning by Hitsujibungaku",
-    videoId: "https://ladist1.catbox.video/tumtet.mp3",
+    videoId: "https://ladist1.catbox.video/cbp3t2.mp3",
     videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
